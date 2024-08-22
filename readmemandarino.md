@@ -1,1 +1,5 @@
 "# Sobre Mim" 
+"## Minhas Habilidades" 
+"- Tecnologia em Nuvem: Tenho uma forte base em projetos em nuvem e estou sempre buscando formas de otimizar sistemas com solu‡äes em cloud." 
+"- Ciˆncias de Dados: Estou me especializando em an lise e gerenciamento de dados, com o objetivo de extrair insights valiosos para a tomada de decisäes." 
+"- Desenvolvimento de Sistemas: Trabalho diariamente com an lise de requisitos e desenvolvimento de sistemas para melhorar a performance de p ginas e processos." 
